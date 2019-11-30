@@ -44,7 +44,12 @@ header, footer, article, nav, aside {
   padding: 1em;
 }
 
-img.resize {
+img.keyResize {
+  max-width:100%;
+  max-height:100%;
+}
+
+img.imgResize {
   max-width:100%;
   max-height:100%;
 }
